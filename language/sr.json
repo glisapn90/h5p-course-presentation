@@ -141,7 +141,7 @@
         },
         {
           "label": "Text for the retry button",
-          "default": "Retry"
+          "default": "Врати"
         },
         {
           "label": "Text for the export text button",
